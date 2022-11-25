@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'food'
+}
+
+item {
+    id: 2
+    name: 'yes'
+}
+
+item {
+    id: 3
+    name: 'no'
+}
+
+item {
+    id: 4
+    name: 'hello'
+}
+
+item {
+    id: 5
+    name: 'thank_you'
+}
